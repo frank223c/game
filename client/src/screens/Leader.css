@@ -1,0 +1,10 @@
+.leaders-board .card {
+  font-size: 0.9em;
+}
+
+.team-cards {
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: .5em;
+  justify-content: space-between;
+}

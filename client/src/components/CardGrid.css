@@ -1,0 +1,14 @@
+.card-grid {
+  display: flex;
+  flex-wrap: wrap;
+  height: 100%;
+  align-items: center;
+}
+
+.card-grid__container {
+  display: flex;
+  width: 100%;
+  flex-wrap: wrap;
+  flex-basis: 100%;
+  justify-content: space-between;
+}
